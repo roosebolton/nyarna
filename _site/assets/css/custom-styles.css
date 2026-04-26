@@ -1,0 +1,21 @@
+
+.navbar-nav .nav-link:hover .navbar-custom:hover .navbar-brand:hover,
+.navbar-custom:hover .navbar-nav:hover .nav-link:hover {
+    color: #555931 !important; 
+}
+
+.navbar-custom:hover .navbar-brand:hover,
+.navbar-custom:hover .navbar-nav:hover .nav-link:hover {
+  color: #555931 !important;
+}
+
+img[alt=profielfoto] { 
+    width:50%;
+    border-radius:20%;
+    overflow:hidden;
+}
+
+hr.small {
+  border-color: #8C8956 !important;
+;
+}

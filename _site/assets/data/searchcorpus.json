@@ -18,10 +18,10 @@
  
  
 { 
-"title"    : "About me", 
-"desc"     : "About me", 
+"title"    : "De Auteur", 
+"desc"     : "De Auteur", 
 "category" : "page", 
-"url"      : "/aboutme/", 
+"url"      : "/de_auteur/", 
 "date"     : "January 1, 1970" 
 }, 
  
