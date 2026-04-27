@@ -28,7 +28,8 @@ author: Michiel Kool
 ###############################################
 
 navbar-links:
-  De auteur: "de_auteur"
+  De auteur: "page_de_auteur"
+  Over Nyarna: "page_over_nyarna"
   # Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"

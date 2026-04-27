@@ -18,18 +18,26 @@
  
  
 { 
-"title"    : "De Auteur", 
-"desc"     : "De Auteur", 
-"category" : "page", 
-"url"      : "/de_auteur/", 
-"date"     : "January 1, 1970" 
-}, 
- 
-{ 
 "title"    : "Nyarna", 
 "desc"     : "Nyarna", 
 "category" : "page", 
 "url"      : "/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "De Auteur", 
+"desc"     : "De Auteur", 
+"category" : "page", 
+"url"      : "/page_de_auteur/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Over Nyarna", 
+"desc"     : "Over Nyarna", 
+"category" : "page", 
+"url"      : "/page_over_nyarna/", 
 "date"     : "January 1, 1970" 
 }, 
  
