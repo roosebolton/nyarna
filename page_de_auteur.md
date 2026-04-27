@@ -1,8 +1,6 @@
 ---
 layout: page
 title: De Auteur
-#subtitle: Waar is dìt nu weer goed voor?
-#cover-img: /assets/img/coastbg.png
 ---
 
 <figure class="profielfoto">
@@ -11,6 +9,20 @@ title: De Auteur
 </figure>
 
 
-### Over de auteur
-Michiel werd geboren in de zomer van 1981. Toen was er nog niets aan de hand. In de vele jaren die volgden verstreek een leven dat op niemand indruk maakte. Combineer dit met een onvermogen aan te voelen waar mensen op zitten te wachten en je hebt er weer een blog bij.
+### Over de auteur en dit blog
+Michiel werd geboren in de zomer van 1981. Hij bleek vreemd te zijn. In de jaren die volgden verstreek een leven waarin steeds minder mensen poogden daaraan iets te doen.
 
+Wat bezielt een mens over zo'n leven te schrijven? Onvermogen aan te voelen waar de medemens op zit te wachten? Ja, onder andere van dat onvermogen is sprake.
+
+Nyarna is een woord uit het Quenya. Het betekent: verhaal. In dit blog verhaalt Michiel over zijn onvermogen een indrukwekkend leven te leiden. Hij openbaart hierbij hoe het is voor een vreemd mens door het leven te strompelen te midden van geslaagde mensen zoals u.
+
+###### Auteur Parameters:
+
+| -----------    | ------------ |
+| **Levensfase**     | midlife      |
+| **Beroepsveld**  | ouderenzorg      |
+| **Linkshanding**  | nee      |
+| **Haar op kruin**  | steeds minder      |
+| **Gelukkig** | meestal |
+| **Geld** | nee |
+| **Favoriete geneesmiddel** | Rennies |

@@ -34,14 +34,6 @@
 }, 
  
 { 
-"title"    : "Over Nyarna", 
-"desc"     : "Over Nyarna", 
-"category" : "page", 
-"url"      : "/page_over_nyarna/", 
-"date"     : "January 1, 1970" 
-}, 
- 
-{ 
 "title"    : "Tag Index", 
 "desc"     : "Tag Index", 
 "category" : "page", 
