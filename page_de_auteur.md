@@ -1,20 +1,21 @@
 ---
 layout: page
-title: De Auteur
+title: Wat is dit?
 ---
 
 <figure class="profielfoto">
-  <img src="/assets/img/profielfoto2.png" alt="profielfoto">
+  <img src="/assets/img/profielfoto.png" alt="profielfoto">
   <figcaption>De auteur heeft een groot hoofd.</figcaption>
 </figure>
 
 
-### Over de auteur en dit blog
-Michiel werd geboren in de zomer van 1981. Hij bleek vreemd te zijn. In de jaren die volgden verstreek een leven waarin steeds minder mensen poogden daaraan iets te doen.
+### Over de auteur
+Michiel werd geboren in de zomer van 1981. Hij bleek een vreemde jongen. In de jaren die volgden, verstreek een leven waarin steeds minder mensen poogden daaraan iets te doen.
 
-Wat bezielt een mens over zo'n leven te schrijven? Onvermogen aan te voelen waar de medemens op zit te wachten? Ja, onder andere van dat onvermogen is sprake.
+### Over dit blog
+Wat bezielt iemand over zo'n leven te schrijven? Onvermogen aan te voelen waar de medemens op wacht? Ja, onder andere van dat onvermogen is sprake.
 
-Nyarna is een woord uit het Quenya. Het betekent: verhaal. In dit blog verhaalt Michiel over zijn onvermogen een indrukwekkend leven te leiden. Hij openbaart hierbij hoe het is voor een vreemd mens door het leven te strompelen te midden van geslaagde mensen zoals u.
+Nyarna is een woord uit het Quenya. Het betekent: verhaal. In dit blog verhaalt de auteur over zijn onvermogen een indrukwekkend leven te leiden. Hij openbaart daarbij hoe een vreemde jongen door het leven strompelt.
 
 ###### Auteur Parameters:
 

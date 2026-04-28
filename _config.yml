@@ -1,11 +1,3 @@
-defaults:
-  -
-    scope:
-      path: ""      # empty string for all files
-      type: posts   # limit to posts
-    values:
-      is_post: true # automatically set is_post=true for all posts
-
 ###########################################################
 ### Welcome to Beautiful Jekyll!
 ### This config file is meant for settings that affect your entire website. When you first
@@ -28,7 +20,7 @@ author: Michiel Kool
 ###############################################
 
 navbar-links:
-  De auteur: "page_de_auteur"
+  Wat is dit?: "page_de_auteur"
   # Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
@@ -40,8 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/tale_white.png"
-avatar2: "/assets/img/profielfoto.png"
+avatar: "/assets/img/avatar2.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -95,7 +86,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: Nyarna openbaart hoe haar auteur door het leven strompelt
+##  rss-description: Nyarna openbaart hoe haar auteur door het leven strompelt
 
 ###########################
 # --- General options --- #

@@ -27,8 +27,6 @@
   
 
   
-  <link rel="alternate" type="application/rss+xml" title="Nyarna" href="http://localhost:4000/feed.xml">
-  
 
   
 
@@ -91,7 +89,7 @@
   <meta property="og:description" content="{% assign date_format = site.date_format | default: &quot;%B %-d, %Y&quot; %} {%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%} {%- endfor -%} {%- endcapture -%} {%- assign tags_list = site_tags | split:&apos;,&apos; | sort -%} {%- for tag...">
 
   
-  <meta property="og:image" content="http://localhost:4000/assets/img/tale_white.png">
+  <meta property="og:image" content="http://localhost:4000/assets/img/avatar2.png">
   
 
   
@@ -110,7 +108,7 @@
   <meta property="twitter:description" content="{% assign date_format = site.date_format | default: &quot;%B %-d, %Y&quot; %} {%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%} {%- endfor -%} {%- endcapture -%} {%- assign tags_list = site_tags | split:&apos;,&apos; | sort -%} {%- for tag...">
 
   
-  <meta name="twitter:image" content="http://localhost:4000/assets/img/tale_white.png">
+  <meta name="twitter:image" content="http://localhost:4000/assets/img/avatar2.png">
   
 
   
@@ -137,7 +135,7 @@
   <div class="collapse navbar-collapse" id="main-navbar">
     <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="/page_de_auteur">De auteur</a>
+            <a class="nav-link" href="/page_de_auteur">Wat is dit?</a>
           </li>
         <li class="nav-item">
           <a class="nav-link" id="nav-search-link" href="#" title="Search">
@@ -153,7 +151,7 @@
     <div class="avatar-container">
       <div class="avatar-img-border">
         <a href="http://localhost:4000/">
-          <img alt="Navigation bar avatar" class="avatar-img" src="/assets/img/tale_white.png" />
+          <img alt="Navigation bar avatar" class="avatar-img" src="/assets/img/avatar2.png" />
         </a>
       </div>
     </div>
@@ -257,14 +255,6 @@
       <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
       
 <ul class="list-inline text-center footer-links"><li class="list-inline-item">
-    <a href="/feed.xml" title="RSS">
-      <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
-      </span>
-      <span class="sr-only">RSS</span>
-    </a>
-  </li><li class="list-inline-item">
     <a href="https://open.spotify.com/user/Koolutus" title="Spotify">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
