@@ -1,4 +1,13 @@
-/* import custom fonts */
+/* import custom fonts 
+# Theme color 
+# #D5DAF2
+# #B0BF3B
+# #242614
+# #A3A65B
+# #8C8956
+# #555931
+*/
+
 @font-face {
     font-family: 'myremmington';
     src: url('../fonts/myoldrem/myoldrem.woff2') format('woff2'),
@@ -63,3 +72,9 @@ p {
   font-family: 'myremmington', serif !important;
 }
 
+/**
+Custom styles for (preview) posts
+**/
+.post-preview {
+  border-bottom: 5px solid #555931;
+}
