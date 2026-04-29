@@ -15,7 +15,7 @@ Michiel werd geboren in de zomer van 1981. Hij bleek een vreemde jongen. In de j
 ### Over dit blog
 Wat bezielt iemand over zo'n leven te schrijven? Onvermogen aan te voelen waar de medemens op wacht? Ja, onder andere van dat onvermogen is sprake.
 
-Nyarna is een woord uit het Quenya. Het betekent: verhaal. In dit blog verhaalt de auteur over zijn onvermogen een indrukwekkend leven te leiden. Hij openbaart daarbij hoe een vreemde jongen door het leven strompelt.
+Nyarna is een woord uit het Quenya. Het betekent: verhaal. In dit blog verhaalt de auteur over zijn onvermogen een indrukwekkend bestaan te leiden. Hij openbaart hierbij hoe een vreemde jongen door het leven strompelt.
 
 ###### Auteur Parameters:
 
