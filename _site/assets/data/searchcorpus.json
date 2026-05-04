@@ -1,6 +1,14 @@
 [ 
  
 { 
+"title"    : "Lullige tragiek", 
+"desc"     : "Lullige tragiek", 
+"category" : "blog, leven, memoire, vader", 
+"url"      : "/2026-05-03-200-lullige-tragiek/", 
+"date"     : "May  3, 2026" 
+}, 
+ 
+{ 
 "title"    : "Sample blog post to learn markdown tips", 
 "desc"     : "Sample blog post to learn markdown tips", 
 "category" : "test", 

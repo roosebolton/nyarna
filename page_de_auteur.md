@@ -3,7 +3,7 @@ layout: page
 title: Wat is dit?
 ---
 
-<figure class="profielfoto">
+<figure>
   <img src="/assets/img/profielfoto.png" alt="profielfoto">
   <figcaption>De auteur heeft een groot hoofd.</figcaption>
 </figure>
