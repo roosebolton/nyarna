@@ -6,9 +6,9 @@ tags: [blog, leven, memoire, vader]
 author: Michiel
 ---
 
-Robert Adries Kool was mijn vader. Hij overleed op 2 maart 2017. Na zijn harttransplantatie liep hij een infectie op die hem een paar weken later fataal werd. Alles in zijn macht had hij gedaan om sterk genoeg te zijn voor de ingreep. Na zijn herstel zou hij gaan trainen voor de Alpe d’Huzes. De mogelijkheden waren eindeloos en zijn leven zou opnieuw beginnen.
+Robert Adries Kool was mijn vader. Hij overleed op 2 maart 2017. Na een harttransplantatie liep hij een infectie op die hem een paar weken later fataal werd. Alles in zijn macht had hij gedaan om sterk genoeg te zijn voor de ingreep. Na het herstel zou hij gaan trainen voor de Alpe d’Huzes. De mogelijkheden waren eindeloos en zijn leven zou opnieuw beginnen.
 
-Wanneer ik weer eens meen niet voor het geluk geboren te zijn - iets dat iemand met 4 vinkjes moet nalaten - corrigeer ik dit zelfmedelijden door stil te staan bij de beproeving die zijn bestaan was. Het leven van de meesten hangt vaak van lullige tragiek aan elkaar.
+Wanneer ik weer eens denk niet voor het geluk geboren te zijn - iets dat iemand met 4 vinkjes moet nalaten - corrigeer ik dit zelfmedelijden door stil te staan bij de beproeving die zijn bestaan was. Het leven van de meesten hangt vaak van lullige tragiek aan elkaar.
 
 Mijn vader had een authentiek gevoel voor humor, voor zover ik authenticiteit in de mens kan beoordelen. Toen hij een delier kreeg na zijn operatie, versterkt door een infectie, bleek zijn humor een van de weinige ‘oude eigenschappen’ die af en toe nog door de wirwar van waanzin brak.
 
@@ -20,7 +20,7 @@ Lieve Rotterdamse vrienden hielden regelmatig een oogje in het zeil wanneer mijn
 
 De waanzin nam niet af. Omdat hij begon te plukken, soms agressief deed en wilde ontsnappen, waarbij hij een keer zo hard uit het bed kletterde dat zijn halve gezicht gezwollen en blauw was, werd hij gefixeerd: met banden aan zijn bed vastgebonden. Dat is niet niks. Hij ontwikkelde een interesse in messen en scharen. 
 
-Medici verloren elke slag tegen de oprukkende ontstekingen. Hij hield te veel vocht vast. Een gat in zijn borstkas bleef open om ingrepen waarbij vocht werd verwijderd makkelijker te maken. Een van de laatste dagen dat ik hem zag, zat ik tegenover hem. Ik keek recht in de zwarte leegte waar normaal huid en borstbeen zat. Er keek niets terug.
+Medici verloren elke slag tegen de oprukkende ontstekingen. Hij hield te veel vocht vast. Een gat in zijn borstkas bleef open om ingrepen waarbij vocht werd verwijderd makkelijker te maken. Een van de laatste dagen dat ik hem zag, zat ik tegenover hem. Ik keek recht in de zwarte leegte waar normaal huid en borstbeen zaten. Er keek niets terug.
 
 Die ochtend dacht hij een limousine met Turkse vlaggetjes te hebben gezien. “Wisten jullie dat Turken heel lang zijn? Ze hebben enorme lijkwagens.” Even later: “Neem me mee. Je kunt me gewoon meenemen naar huis.” Wanneer ik op hem geleken had, had ik het gedaan.
 
