@@ -27,7 +27,8 @@ Medici verloren elke slag tegen de oprukkende ontstekingen. Hij hield te veel vo
 
 Die ochtend dacht hij een limousine met Turkse vlaggetjes te hebben gezien. “Wisten jullie dat Turken heel lang zijn? Ze hebben enorme lijkwagens.” Even later: “Neem me mee. Je kunt me gewoon meenemen naar huis.” Wanneer ik op hem geleken had, had ik het gedaan.
 
-Mijn moeder meende dat zijn verwarde gedrag kwam door het plots stoppen met antidepressiva. Specialisten ontkrachtten dit, maar ook deze kant van de familie is goed in zelf wel uitmaken hoe het zit. Met extern falen valt beter te leven dan met lullige tragiek. In de nacht van 2 maart belde ze. Mijn ringtone, een trompetsolo van Louis Armstrong uit een bijzonder swingende variant van “Mack the Knife”, luidde de onheilstijding in.
+Mijn moeder meende dat zijn verwarde gedrag kwam door het plots stoppen met antidepressiva. Specialisten ontkrachtten dit, maar ook deze kant van de familie is goed in zelf wel uitmaken hoe het zit. Met extern falen valt beter te leven dan met lullige tragiek. In de nacht van 2 maart belde ze. Mijn r
+Het hebben van kinderen lijkt me wreed. ingtone, een trompetsolo van Louis Armstrong uit een bijzonder swingende variant van “Mack the Knife”, luidde de onheilstijding in.
 
 De klucht stopt bij mij. Het is goed geweest. U wint.
 
