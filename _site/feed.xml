@@ -10,6 +10,20 @@
     
     
       <item>
+        <title>Verward persoon</title>
+        
+        <dc:creator><![CDATA[ Michiel ]]></dc:creator>
+        
+        <description>
+          Als jij niet over jezelf heerst, laat je iets anders over je heersen. - 
+          Soms zal ik iets schrijven over wat een verward persoon zoal doet en denkt. Een groot deel van mijn jaren als twintiger was ik een verward persoon. Zo iemand waarover je soms in de krant leest: “Verwarde man in kikkerkostuum rijdt met auto gemeentehuis binnen, poept op de balie en...
+        </description>
+        <pubDate>Wed, 06 May 2026 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2026-05-06-200-Verward-pesroon/</link>
+        <guid isPermaLink="true">http://localhost:4000/2026-05-06-200-Verward-pesroon/</guid>
+      </item>
+    
+      <item>
         <title>Lullige tragiek</title>
         
         <dc:creator><![CDATA[ Michiel ]]></dc:creator>
@@ -21,34 +35,6 @@
         <pubDate>Sun, 03 May 2026 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2026-05-03-200-lullige-tragiek/</link>
         <guid isPermaLink="true">http://localhost:4000/2026-05-03-200-lullige-tragiek/</guid>
-      </item>
-    
-      <item>
-        <title>Sample blog post to learn markdown tips</title>
-        
-        <dc:creator><![CDATA[ Bill Smith ]]></dc:creator>
-        
-        <description>
-          There&apos;s lots to learn! - 
-          This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/tables/etc.I also encourage you to look at the code that...
-        </description>
-        <pubDate>Fri, 28 Feb 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2020-02-28-sample-markdown/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020-02-28-sample-markdown/</guid>
-      </item>
-    
-      <item>
-        <title>Flake it till you make it</title>
-        
-        <dc:creator><![CDATA[ Sharon Smith and Barry Simpson ]]></dc:creator>
-        
-        <description>
-          Excerpt from Soulshaping by Jeff Brown - 
-          Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who...
-        </description>
-        <pubDate>Wed, 26 Feb 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2020-02-26-flake-it-till-you-make-it/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020-02-26-flake-it-till-you-make-it/</guid>
       </item>
     
   </channel>
