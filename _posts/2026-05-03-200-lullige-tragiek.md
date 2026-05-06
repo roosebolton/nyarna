@@ -29,7 +29,7 @@ Die ochtend dacht hij een limousine met Turkse vlaggetjes te hebben gezien. “W
 
 Mijn moeder meende dat zijn verwarde gedrag kwam door het plots stoppen met antidepressiva. Specialisten ontkrachtten dit, maar ook deze kant van de familie is goed in zelf wel uitmaken hoe het zit. Met extern falen valt beter te leven dan met lullige tragiek. In de nacht van 2 maart belde ze. Mijn ringtone, een trompetsolo van Louis Armstrong uit een bijzonder swingende variant van “Mack the Knife”, luidde de onheilstijding in.
 
-Het hebben van kinderen lijkt me wreed. De klucht stopt bij mij. Het is goed geweest. U wint.
+De klucht stopt bij mij. Het is goed geweest. U wint.
 
 <figure>
   <img src="/assets/img/metpap.webp" alt="foto">
