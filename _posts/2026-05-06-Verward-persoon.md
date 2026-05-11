@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Verward persoon
-subtitle: Als jij niet over jezelf heerst, laat je iets anders over je heersen.
+subtitle: Als jij niet over jezelf heerst, heerst iets anders over je.
 tags: [blog, leven]
 ##comments: true
 author: Michiel
@@ -15,4 +15,7 @@ Nu hoor je het woord “malloot” niet te gebruiken als het om een verward pers
 
 Als jij niet over jezelf heerst, heerst iets anders over je. Wat je over je liet heersen gaat nooit meer weg. Tegenwoordig weet ik de gekkigheid beter uit het zicht van de buitenwereld te houden. Als ze zich in mij manifesteert, heb ik de middelen om haar terug in haar reservaat te krijgen. Ik maakte een Jurassic Park voor de demonen, narren, fantasten en charlatans. Soms geef ik een excursie.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3qVPNONdF58?si=AsFkmwIs9EupTQo2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<figure>
+  <img src="/assets/img/jurassic_park.gif" alt="foto">
+  <figcaption>Niet voeren!</figcaption>
+</figure>
