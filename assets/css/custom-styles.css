@@ -32,14 +32,14 @@
 /* Custom styles for certain added figures, figcaption and images*/
 figure > img {
   margin: 0 auto 0.55em;display:block;
-  width: 40%;
+  width: 70%;
   border-radius: 7%;
   border: 2px solid #ffffff;
 }
 figure > figcaption {
   margin: 0 auto 0.55em;
   display:block;
-  width: 40%;
+  width: 70%;
   font-style: italic;
   font-size: 0.6em;
 }
