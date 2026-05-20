@@ -1,6 +1,14 @@
 [ 
  
 { 
+"title"    : "Akerstraat 1", 
+"desc"     : "Akerstraat 1", 
+"category" : "blog, leven, akertraat posse", 
+"url"      : "/2026-05-13-Akerstraat-1/", 
+"date"     : "May 13, 2026" 
+}, 
+ 
+{ 
 "title"    : "Proletenplofjes", 
 "desc"     : "Proletenplofjes", 
 "category" : "blog, leven", 
