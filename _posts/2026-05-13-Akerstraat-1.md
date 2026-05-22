@@ -17,7 +17,7 @@ Het was een net studentenhuis met veel keurige, studerende meiden. Twee van die 
 
 Mondjesmaat verdwenen de studenten en verschenen de ‘normale huurders’. Vlak voordat ik het huis aan de Akerstraat verliet, was ik degene die een huishoudrooster maakte en mensen aansprak op de teringbende die het altijd was. Van normale huurders was inmiddels zeker geen sprake meer. 
 
-Het pand werd een afvoerput waarin het kanzloze schuim van Heerlen zich in verzamelde. In de blogs met de tag Akerstraat Posse, schrijf ik over wat er zoal in de afvoerput gebeurde, tot het moment dat ik mijn beste vriend uit het pand moest evacueren.
+Het pand werd een afvoerput waarin zich kansloos schuim verzamelde. In de blogs met de tag Akerstraat Posse, schrijf ik over wat er zoal in de afvoerput gebeurde.
 
 
 <figure>
