@@ -38,13 +38,19 @@ figure > img {
   border: 2px solid #ffffff;
 }
 
-figure > a > img {
+figure > a {
   margin: 0 auto 0.55em;
   display:block;
   width: 70%;
   border-radius: 7%;
   border: 2px solid #ffffff;
 }
+
+a > img {
+  border-radius: 7%;
+  border: 2px solid #ffffff;
+}
+
 
 figure > figcaption {
   margin: 0 auto 0.55em;
