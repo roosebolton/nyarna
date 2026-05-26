@@ -47,7 +47,7 @@ Huisgenoot D was iemand die soms midden in de nacht, als hij doorhad dat je nog 
 We besloten dat activisme nu eenmaal niet noodzakelijk tot begrip en populariteit leidt, maar vaak wel hard nodig is. De onderkinnenval bleef staan. Helaas bleek de onderkin een te intelligent schepsel om in de val te trappen.
 
 ##### Vriendschap is #####
-Een week geleden bezocht ik de communie van de dochter van de vriend in kwestie. Er waren veel kinderen, blauw licht en een springkussen. Hij ziet er beter uit dan toen. Inmiddels hebben we beiden geen onderkin meer. We zijn productiever dan ooit, maar waren we nog nooit zo moe. Misschien was de onderkin geen parasiet. Misschien was er sprake van mutualisme. Geen van ons beiden zal waarschijnlijk ooit nog in slaap vallen om 03:00u, met de kleren aan, met Amnesiac op de achtergrond, daarbij niet doorhebbend dat onze onderkinnen op weg gaan naar hun conventie. “Bwup...bwup”.
+Een week geleden bezocht ik de communie van de dochter van de vriend in kwestie. Er waren veel kinderen, blauw licht en een springkussen. Hij ziet er beter uit dan toen. Inmiddels hebben we beiden geen onderkin meer. We zijn productiever dan ooit, maar we waren nog nooit zo moe. Misschien was de onderkin geen parasiet. Misschien was er sprake van mutualisme. Geen van ons beiden zal waarschijnlijk ooit nog in slaap vallen iets na 03:00u, met de kleren aan, met Amnesiac op de achtergrond, daarbij niet doorhebbend dat de onderkin zich losmaakt en naar een conventie gaat. “Bwup...bwup”.
 
 
 <figure >
