@@ -7,7 +7,6 @@ tags: [blog, leven, akertraat posse]
 author: Michiel
 ---
 
-##### Liefde is #####
 Misschien komt het door mijn afwezigheid op social media, maar ik zie Liefde Is dus nergens meer. U weet wel, die tekeningen van een kortbenig stel met een tekst eronder die hun liefde onderstreept. Heb je geen lief, dan is het een irritant klotestripje. Heb je wel iemand en herken je iets in de tekst, bewijst dit dat jij of je partner echt een schatje is. Is het niet herkenbaar, dan ben je misschien een beetje een hork of horkin.
 
 <figure >
