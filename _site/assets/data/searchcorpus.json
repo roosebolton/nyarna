@@ -1,10 +1,18 @@
 [ 
  
 { 
-"title"    : "Akerstraat 1", 
-"desc"     : "Akerstraat 1", 
+"title"    : "Onderkinnenconventie", 
+"desc"     : "Onderkinnenconventie", 
 "category" : "blog, leven, akertraat posse", 
-"url"      : "/2026-05-13-Akerstraat-1/", 
+"url"      : "/2026-05-26-Onderkinnenconventie/", 
+"date"     : "May 26, 2026" 
+}, 
+ 
+{ 
+"title"    : "Akerstraat", 
+"desc"     : "Akerstraat", 
+"category" : "blog, leven, akertraat posse", 
+"url"      : "/2026-05-13-Akerstraat/", 
 "date"     : "May 13, 2026" 
 }, 
  
