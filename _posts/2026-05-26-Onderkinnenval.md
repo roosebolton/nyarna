@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Onderkinnenconventie
+cover-img: /assets/img/vriendschapIs_onderkinnenval_cover.webp
+thumbnail-img: ""
+title: Onderkinnenval
 subtitle: Gelieve niet van de kaas te eten als je leven je lief is!
 tags: [blog, leven, akertraat posse]
 ##comments: true
@@ -25,7 +27,7 @@ Bij dat ritme hoorde dat op zaterdag een vriend langskwam met een Playstation, t
 </figure>
 
 ##### De onderkin #####
-Dit alles lijkt een oppervlakkige bezigheid die niet leidt tot levensveranderende inzichten. Lijkt. Want op een avond vol diepzinnig gefilosofeer en Jaeger inname, merkten we op dat we allebei een onderkin hadden. Maar wat wisten we eigenlijk écht over deze onderkin? Wat was zijn raison d'être? Het definitieve antwoord vormde zich in drie weekends.
+Dit alles lijkt een oppervlakkige bezigheid die niet leidt tot levensveranderende inzichten. Lijkt. Want op een avond vol diepzinnig gefilosofeer en Jaeger inname, merkten we op dat we allebei een onderkin hadden. Maar wat wisten we eigenlijk écht over deze onderkin? Wat was zijn raison d'être?
 
 <h1><font style="font-size:8pt">de </font>Onderkin <font style="font-size:8pt; font-style:italic;" > zelfst.naamw. </font></h1> 
 

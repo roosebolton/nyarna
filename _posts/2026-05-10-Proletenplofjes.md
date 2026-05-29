@@ -1,5 +1,7 @@
 ---
 layout: post
+cover-img: /assets/img/plofproleet.webp
+thumbnail-img: ""
 title: Proletenplofjes
 subtitle: Vinexhunnen en prachtwijkparels
 tags: [blog, leven]
