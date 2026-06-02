@@ -1,6 +1,30 @@
 [ 
  
 { 
+"title"    : "Verplichte Kost 1", 
+"desc"     : "Verplichte Kost 1", 
+"category" : "muziek, verplichte kost", 
+"url"      : "/2026-06-02-VerplichteKost1/", 
+"date"     : "June  2, 2026" 
+}, 
+ 
+{ 
+"title"    : "Vader", 
+"desc"     : "Vader", 
+"category" : "leven, gedicht", 
+"url"      : "/2026-06-02-Vader/", 
+"date"     : "June  2, 2026" 
+}, 
+ 
+{ 
+"title"    : "Voor de domineeszoon", 
+"desc"     : "Voor de domineeszoon", 
+"category" : "leven, gedicht", 
+"url"      : "/2026-06-02-Domineeszoon/", 
+"date"     : "June  2, 2026" 
+}, 
+ 
+{ 
 "title"    : "Onderkinnenval", 
 "desc"     : "Onderkinnenval", 
 "category" : "blog, leven, akertraat posse", 
@@ -35,7 +59,7 @@
 { 
 "title"    : "Lullige tragiek", 
 "desc"     : "Lullige tragiek", 
-"category" : "blog, leven, memoire, vader", 
+"category" : "blog, leven, memoire", 
 "url"      : "/2026-05-03-lullige-tragiek/", 
 "date"     : "May  3, 2026" 
 }, 
@@ -62,6 +86,14 @@
 "desc"     : "Tag Index", 
 "category" : "page", 
 "url"      : "/tags/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Nyarna", 
+"desc"     : "Nyarna", 
+"category" : "page", 
+"url"      : "/page2/", 
 "date"     : "January 1, 1970" 
 } 
  

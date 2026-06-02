@@ -2,7 +2,7 @@
 layout: post
 title: Lullige tragiek
 subtitle: Met extern falen valt beter te leven dan met lullige tragiek.
-tags: [blog, leven, memoire, vader]
+tags: [blog, leven, memoire]
 ##comments: true
 author: Michiel
 ---
