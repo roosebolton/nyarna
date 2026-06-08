@@ -53,6 +53,6 @@ Sinds enige tijd ga ik zowat 4x per week naar een sportschool. Voordat ik naar d
 
 Dat het antwoord hierop “ja” is, betekent logischerwijs niet dat het leven voor iemand van mijn leeftijd, zoals dat aan ons veelal subliminaal en soms expliciet wordt voorgesteld, iets is dat een zinnig mens zou moeten ambiëren. 
 
-Als je 45 jaar lang het gevoel hebt nooit aansluiting te vinden, moet je het jezelf dan kwalijk nemen dat je inmiddels in tevredenheid leeft zonder zicht op aansuiting? Als ik achterom kijk, zie ik dat de bezemwagen een stukje dichterbij is gekomen. Op de zijkant staat een tekst: "Waarom naar de finish racen als de finish op jouw af racet" 
+Als je 45 jaar lang het gevoel hebt nooit aansluiting te vinden, moet je het jezelf dan kwalijk nemen dat je inmiddels in tevredenheid leeft zonder zicht op aansluiting? Als ik achterom kijk, zie ik dat de bezemwagen een stukje dichterbij is gekomen. Op de zijkant staat een tekst: "Waarom naar de finish racen als de finish op jouw af racet" 
 
 Ik kijk ernaar uit volgend jaar ook niet het antwoord op die vraag te kennen. Anders is er altijd wel een leeftijdsgenoot die toevallig om die en die reden er veel van weet en uitlegt hoe het allemaal zit.
