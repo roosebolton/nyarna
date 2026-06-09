@@ -25,6 +25,15 @@ common-js:
 {% include head.html %}
 
 <body>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FDMF044HYF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FDMF044HYF');
+</script>
   {% include gtm_body.html %}
 
   {% include nav.html %}
