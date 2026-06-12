@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Verward persoon
+share-title: Verward persoon
 subtitle: Als jij niet over jezelf heerst, heerst iets anders over je.
-tags: [blog, leven]
+tags: [nyarna, nyarna.nl, blog, leven]
 ##comments: true
 author: Michiel
 ---

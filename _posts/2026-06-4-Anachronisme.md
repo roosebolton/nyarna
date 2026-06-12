@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Anachronisme
+share-title: Anachronisme
 subtitle: Ben je niet gewoon te incapabel om naar je leeftijd te leven?
-tags: [blog, leven, excursie]
+tags: [nyarna, nyarna.nl, blog, leven, excursie]
 ##comments: true
 author: Michiel
 

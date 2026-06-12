@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Verplichte Kost 1
+share-title: Verplichte Kost 1
 subtitle: Wat u tot zich moet nemen
-tags: [muziek, verplichte kost]
+tags: [nyarna, nyarna.nl, muziek, verplichte kost]
 ##comments: true
 author: Michiel
 

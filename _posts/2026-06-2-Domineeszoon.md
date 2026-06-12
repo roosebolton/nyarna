@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Voor de domineeszoon
+share-title: Voor de domineeszoon
 subtitle: Gedicht
-tags: [leven, gedicht]
+tags: [nyarna, nyarna.nl, leven, gedicht]
 ##comments: true
 author: Michiel
 show_excerpt: false

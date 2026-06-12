@@ -3,8 +3,9 @@ layout: post
 cover-img: /assets/img/plofproleet.webp
 thumbnail-img: ""
 title: Proletenplofjes
+share-title: Proletenplofjes
 subtitle: Vinexhunnen en prachtwijkparels
-tags: [blog, leven]
+tags: [nyarna, nyarna.nl, blog, leven]
 ##comments: true
 author: Michiel
 ---

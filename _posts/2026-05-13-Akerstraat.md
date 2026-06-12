@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Akerstraat
+share-title: Akerstraat
 subtitle: Jij hoort hier helemaal niet te wonen
 tags: [blog, leven, akertraat posse]
 ##comments: true

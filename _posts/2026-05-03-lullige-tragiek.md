@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Lullige tragiek
+share-title: Lullige tragiek
 subtitle: Met extern falen valt beter te leven dan met lullige tragiek.
-tags: [blog, leven, memoire]
+tags: [nyarna, nyarna.nl, blog, leven, memoire]
 ##comments: true
 author: Michiel
 ---

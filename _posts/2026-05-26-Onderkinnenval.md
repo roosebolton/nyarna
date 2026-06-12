@@ -3,8 +3,9 @@ layout: post
 cover-img: /assets/img/vriendschapIs_onderkinnenval_cover.webp
 thumbnail-img: ""
 title: Onderkinnenval
+share-title: Onderkinnenval
 subtitle: Gelieve niet van de kaas te eten als je leven je lief is!
-tags: [blog, leven, akertraat posse]
+tags: [nyarna, nyarna.nl, blog, leven, akertraat posse]
 ##comments: true
 author: Michiel
 ---
