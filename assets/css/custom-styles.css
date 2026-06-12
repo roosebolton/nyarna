@@ -92,10 +92,6 @@ Custom styles for (preview) posts
   border-bottom: 5px solid #555931;
 }
 
-/* Hide Cookiebot logo/branding in banner */
-#CybotCookiebotDialogPoweredbyCybot {
-    display: none !important;
-}
 
 /* Hide the floating Privacy Trigger widget */
 #CookiebotWidget {
