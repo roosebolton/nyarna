@@ -91,3 +91,13 @@ Custom styles for (preview) posts
 .post-preview {
   border-bottom: 5px solid #555931;
 }
+
+/* Hide Cookiebot logo/branding in banner */
+#CybotCookiebotDialogPoweredbyCybot {
+    display: none !important;
+}
+
+/* Hide the floating Privacy Trigger widget */
+#CookiebotWidget {
+    display: none !important;
+}
